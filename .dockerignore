@@ -1,0 +1,12 @@
+**/.git
+**/.vscode
+**/bin
+**/obj
+**/TestResults
+**/*.sln
+**/*.slnx
+**/*.user
+**/*.db
+**/*.db-journal
+node_modules
+.DS_Store
