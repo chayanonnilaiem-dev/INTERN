@@ -2,16 +2,7 @@
   <Folder Name="/DZ_MP.CORE/">
     <Project Path="DZ_MP.CORE/DZ_MP.CORE.csproj" />
   </Folder>
-  <Folder Name="/DZ_MP_MASTERFILE_SERVICE.API/">
-    <Project Path="DZ_MP_MASTERFILE_SERVICE.API/DZ_MP_MASTERFILE_SERVICE.API.csproj" />
-  </Folder>
-  <Folder Name="/DZ_MP_SYSTEM_MGMT_SERVICE.API/">
-    <Project Path="DZ_MP_SYSTEM_MGMT_SERVICE.API/DZ_MP_SYSTEM_MGMT_SERVICE.API.csproj" />
-  </Folder>
   <Folder Name="/DZ_MP_BIZ_SERVICE.API/">
     <Project Path="DZ_MP_BIZ_SERVICE.API/DZ_MP_BIZ_SERVICE.API.csproj" />
-  </Folder>
-  <Folder Name="/DZ_MP_LOG_SERVICE.API/">
-    <Project Path="DZ_MP_LOG_SERVICE.API/DZ_MP_LOG_SERVICE.API.csproj" />
   </Folder>
 </Solution>
